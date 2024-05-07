@@ -1,3 +1,4 @@
 Para testar localmente :
 
-instalar extensão GO LIVE ou abrir index.html diretamente no navegador
+clonar o repositorio
+instalar extensão GO LIVE ou abrir index.html
