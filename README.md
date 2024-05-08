@@ -1,8 +1,8 @@
 ## Como Executar Localmente:
 
 1. Clone o repositório.
-2. Baixe a extensão GO LIVE no Visual Studio Code.
+2. Baixe a extensão Live Server no Visual Studio Code
    
    **OU**
    
-3. Abra o arquivo `index.html`
+4. Abra o arquivo `index.html`
